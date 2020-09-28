@@ -1,0 +1,58 @@
+[
+    {
+        "superhero":"Batman",
+        "publisher":"DC Comics",
+        "alter_ego":"Bruce Wayne",
+        "first_appereance":"Detective Comics #27",
+        "Characters":"Bruce Wayne"
+    },
+    {
+        "superhero":"Superman",
+        "publisher":"DC Comics",
+        "alter_ego":"Kal-El",
+        "first_appereance":"Action Comics #1",
+        "Characters":"Kal-El"
+    },
+    {
+        "superhero":"Flash",
+        "publisher":"DC Comics",
+        "alter_ego":"Jay Garrick",
+        "first_appereance":"Flash Comics #1",
+        "Characters":"Jay Garrick, Barry Allen, Wally West"
+    },
+    {
+        "superhero":"Green Lantern",
+        "publisher":"DC Comics",
+        "alter_ego":"David Cormak",
+        "first_appereance":"Comics #30",
+        "Characters":"David Cormak"
+    },
+    {
+        "superhero":"Wolverine",
+        "publisher":"Marvel Comics",
+        "alter_ego":"James Logan",
+        "first_appereance":"The Incredible Hulk #180",
+        "Characters":"James Logan"
+    },
+    {
+        "superhero":"Cyclops",
+        "publisher":"Marvel Comics",
+        "alter_ego":"Scott Summers",
+        "first_appereance":"The X-men #1",
+        "Characters":"Scott Summers"
+    },
+    {
+        "superhero":"Psylocke",
+        "publisher":"Marvel Comics",
+        "alter_ego":"Elizabeth Betsy Braddock",
+        "first_appereance":"CAptain Britain #8",
+        "Characters":"Jay Garrick, Barry Allen, Wally West"
+    },
+    {
+        "superhero":"Phoenix",
+        "publisher":"Marvel Comics",
+        "alter_ego":"Jean Gray",
+        "first_appereance":"Uncanny X-men #101",
+        "Characters":"Jean Gray"
+    }
+]
